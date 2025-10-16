@@ -28,6 +28,7 @@ API Web construída para a CP5: autenticação com **JWT**, autorização por **
 ## ▶️ Como executar
 ```bash
 # na pasta do projeto (SafeScribe.Api)
+dotnet restore
 dotnet build
 dotnet run
 ```

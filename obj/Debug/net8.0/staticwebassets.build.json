@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TQK1bDzuScMhe+tB5GO4OBwYbPrRMu/32YCf/1Nl9r4=",
+  "Source": "SafeScribe.Api",
+  "BasePath": "_content/SafeScribe.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
